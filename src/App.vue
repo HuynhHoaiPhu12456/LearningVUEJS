@@ -71,8 +71,6 @@ export default {
 
   <!-- <global-component :title="'red'"></global-component> -->
 
-  <CustomDirective :inputstyle="inputStyle"></CustomDirective>
-
   <div class="outer">
     <h3>Vue Teleport Example</h3>
     <div>
